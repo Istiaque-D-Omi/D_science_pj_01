@@ -1,5 +1,5 @@
 # D_science_pj_01
--  This project is based of 'Data science job' salary prediction.
+This project is based of 'Data science job' for building a salary prediction model.
 -  Salary data has been taken from glassdoor.com
 -  Built 3 models Linear, Lasso, and Random Forest.
 -  Optimized them using GridsearchCV to reach the best model.
