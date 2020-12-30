@@ -40,7 +40,7 @@ Required Packages- pandas, numpy, sklearn, matplotlib, seaborn, json, pickle
 ## Performance:
 Random Forest model outperformed the other approaches on the test and validation sets.
 
-Random Forest : MAE = 11.2
-Linear Regression: MAE = 18.8
-Lasso Regression :MAE =19.6
+-  ***Random Forest : MAE = 11.2***
+-  ***Linear Regression: MAE = 18.8***
+-  ***Lasso Regression :MAE =19.6***
 
