@@ -9,7 +9,7 @@
 
 ## Data Parameter:
 
-- job title
+- Job Title
 - Salary Estimate
 - Job Description
 - Rating
@@ -30,7 +30,7 @@
 
 ## Model Building:
 
-- Splited the data in 80:20 for traing and testing.
+- Splited the data into 80% train data and 20% test data for traing and testing purpose.
 - Built 3 models to get select the best model from.
 - Evaluated them using Mean Absolute Error. Choose MAE because it is relatively easy to interpret and outliers weren’t particularly bad for this type of model.
 - Multiple Linear Regression – Set Baseline for the model.
