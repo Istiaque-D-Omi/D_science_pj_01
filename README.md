@@ -1,11 +1,11 @@
 # D_science_pj_01
-This project is based of 'Data science job' salary prediction.
-Salary data has been taken from glassdoor.com
-Built 3 models Linear, Lasso, and Random Forest
-Optimized them using GridsearchCV to reach the best model
+-  This project is based of 'Data science job' salary prediction.
+-  Salary data has been taken from glassdoor.com
+-  Built 3 models Linear, Lasso, and Random Forest.
+-  Optimized them using GridsearchCV to reach the best model.
 
-Python Verson-3.8
-Required Packages- pandas, numpy, sklearn, matplotlib, seaborn, json, pickle
+##  ***Python Verson-3.8***
+##  ***Required Packages- pandas, numpy, sklearn, matplotlib, seaborn, json, pickle***
 
 ## Data Parameter:
 
